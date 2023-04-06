@@ -81,7 +81,7 @@ export default function Accumulative(props) {
           <div className="border"> 0</div >
           <div className="border">0</div>
           </div>
-          <div className="border">Example </div>
+          <div className=" spacing">Example text </div>
       
       </div>
 

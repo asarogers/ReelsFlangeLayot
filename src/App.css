@@ -116,9 +116,7 @@ body{
   display: flex;
   justify-content: center;
 }
-label{
-  margin: 14px;
-}
+
 .item1{
   /* accumulative box */
  float: left;
@@ -133,4 +131,15 @@ float: right;
   display: flex;
   margin-left: 70px;
   padding: 80px;
+}
+.spacing{
+  width :auto;
+ justify-content: center;
+ border: 2px solid black;
+}
+
+.input1{
+  margin-bottom: -30px ;
+  margin-left: 15px;
+
 }

@@ -4,54 +4,54 @@ function Form() {
       <div className="container">
         <form className="form">
         <label>Date Added</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/> <label>Layout Rating</label>
-          <input type="text" />
+          <input className=" input1"type="text" />
           <br />
           <br/> <label>Consumed</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/> <label>Produced</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/> <label>Tecloss</label>
-          <input type="text" />
+          <input  className=" input1"type="text" />
           <br />
           <br/> <label>Holtec loss</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/> <label>Holtec_Waste</label>
-          <input type="text" />
+          <input className=" input1"type="text" />
           <br />
           <br/> <label>circle_wu</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/>
           <label>Waste/Circle</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/>
           <label>WULoss</label>
-          <input type="text" />
+          <input  className=" input1" type="text" />
           <br />
           <br/>
           <label>WU Consumed</label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/>
-          <label>produced_WU</label> <input type="text" />
+          <label>produced_WU</label> <input  className=" input1" type="text" />
           <br />
           <br/>
           <label>Customer</label>
-          <input type="text" />
+          <input  className=" input1" type="text" />
           <br />
           <br/>
           <label>Job# </label>
-          <input type="text" />
+          <input className=" input1" type="text" />
           <br />
           <br/>
-          <label>Page#</label> <input type="text" />
+          <label>Page#</label> <input  className=" input1"type="text" />
           <br />
           <br/>
           <label>Go To:</label>
@@ -73,18 +73,19 @@ function Form() {
             <label className="label">Work Order 1</label>
             <input type="text" />
             <br />
-            <br/>
+         
             <label className="label" >Work Order 2</label> <input type="text" />
             <br/>
-            <br/>
+          
             <label className="label">Work Order 3</label>
           
             <input type="text" />
             <br />
-            <br/>
+           
             <label className="label">Work Order 4</label> <input type="text" />
-            <br />
             <br/>
+
+           
             <label className="label">Work Order 5</label> <input type="text" />
           </form>
         </div>
